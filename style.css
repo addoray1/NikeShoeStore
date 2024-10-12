@@ -286,7 +286,7 @@ label{
 }
 
 .productImg{
-    width: 40%;
+    width: 50%;
 }
 
 .productDetails{
@@ -515,7 +515,7 @@ footer{
     }
 
     .productImg{
-        width: 40%;
+        width: 80%;
     }
 
     .productDetails{
