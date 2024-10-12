@@ -94,8 +94,8 @@ nav{
     position: absolute;
     top: 10%;
     right: 10%;
-    font-size: 60px;
-    font-weight: 900;
+    font-size: 50px;
+    font-weight: 800;
     text-align: center;
     color: white;
     z-index: 1;
@@ -103,11 +103,11 @@ nav{
 
 .sliderPrice{
     position: absolute;
-    padding: 0px 5px;
+    padding: 2px 5px;
     top: 10%;
     left: 10%;
-    font-size: 60px;
-    font-weight: 300;
+    font-size: 80px;
+    font-weight: 400;
     text-align: center;
     border: 1px solid gray;
     z-index: 1;
