@@ -55,7 +55,7 @@ nav{
     margin-right: 50px;
     cursor: pointer;
     color: lightgray;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .slider{
@@ -107,7 +107,7 @@ nav{
     top: 10%;
     left: 10%;
     font-size: 80px;
-    font-weight: 400;
+    font-weight: 600;
     text-align: center;
     border: 1px solid gray;
     z-index: 1;
